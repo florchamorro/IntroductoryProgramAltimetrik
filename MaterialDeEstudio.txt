@@ -55,8 +55,4 @@ Para los equipos que provienen de un sistema de control de versiones no distribu
 
 Ahora que entiendes en qué consiste el control de versiones, qué es Git y por qué los equipos de software deberían utilizarlo, sigue leyendo para descubrir los beneficios que Git puede aportar en toda la organización.
 
-¿Quieres aprender a usar Git?
 
-Prueba este tutorial interactivo.
-
-Comienza ahora
